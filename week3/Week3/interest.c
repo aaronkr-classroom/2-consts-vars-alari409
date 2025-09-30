@@ -29,7 +29,7 @@ int main()
 	// double B = Mul(P, pow(Sum(1, Div(r, n)), Mul(n, t)));
 
 	printf("From %.2fKRW => %.2fKRW!~\n", P, A);
-
+	 
 
 
 
